@@ -1,0 +1,14 @@
+#!name=Apple TV+ unlock
+#!desc=Apple TV+服务解锁
+#!system=ios
+
+[Rule]
+DOMAIN,hls-amt.itunes.apple.com,GlobalTV // TV+ starts here
+DOMAIN,hls.itunes.apple.com,GlobalTV
+DOMAIN,np-edge.itunes.apple.com,GlobalTV
+DOMAIN,play-edge.itunes.apple.com,GlobalTV
+DOMAIN,uts-api.itunes.apple.com,GlobalTV
+DOMAIN-SUFFIX,tv.apple.com,GlobalTV
+USER-AGENT,AppleTV*,GlobalTV
+USER-AGENT,com.apple.tv*,GlobalTV
+PROCESS-NAME,tv,GlobalTV // TV+ ends here
