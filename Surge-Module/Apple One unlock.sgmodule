@@ -3,32 +3,32 @@
 
 [Rule]
 # > Apple Music TV
-DOMAIN,tv.applemusic.com
+DOMAIN,tv.applemusic.com,Apple
 # > Apple TV
-DOMAIN,linear.tv.apple.com
-DOMAIN,play-edge.itunes.apple.com
-DOMAIN,uts-api.itunes.apple.com
+DOMAIN,linear.tv.apple.com,Apple
+DOMAIN,play-edge.itunes.apple.com,Apple
+DOMAIN,uts-api.itunes.apple.com,Apple
 # > Apple
-DOMAIN,testflight.apple.com
+DOMAIN,testflight.apple.com,Apple
 # ---(Apple)---
-DOMAIN-SUFFIX,appsto.re // Apple URL Shortener
-DOMAIN-SUFFIX,smoot.apple.com // Spotlight
-DOMAIN,amp-api.podcasts.apple.com // Podcasts
-DOMAIN,beta.music.apple.com // Apple Music Web
-DOMAIN,books.itunes.apple.com // iBooks Store download
-DOMAIN,lookup-api.apple.com // Look Up
-DOMAIN,radio.itunes.apple.com // Apple Music Radio
+DOMAIN-SUFFIX,appsto.re,Apple // Apple URL Shortener
+DOMAIN-SUFFIX,smoot.apple.com,Apple // Spotlight
+DOMAIN,amp-api.podcasts.apple.com,Apple // Podcasts
+DOMAIN,beta.music.apple.com,Apple // Apple Music Web
+DOMAIN,books.itunes.apple.com,Apple // iBooks Store download
+DOMAIN,lookup-api.apple.com,Apple // Look Up
+DOMAIN,radio.itunes.apple.com,Apple // Apple Music Radio
 # > Web Preview
-DOMAIN,apps.apple.com
-DOMAIN,books.apple.com
-DOMAIN,itunes.apple.com
-DOMAIN,tv.apple.com
+DOMAIN,apps.apple.com,Apple
+DOMAIN,books.apple.com,Apple
+DOMAIN,itunes.apple.com,Apple
+DOMAIN,tv.apple.com,Apple
 # > News
-DOMAIN,gateway.icloud.com
-DOMAIN-SUFFIX,apple.news
-DOMAIN,news-assets.apple.com
-DOMAIN,news-client.apple.com
-DOMAIN,news-client-search.apple.com
-DOMAIN,news-edge.apple.com
-DOMAIN,news-events.apple.com
-DOMAIN,apple.comscoreresearch.com
+DOMAIN,gateway.icloud.com,Apple
+DOMAIN-SUFFIX,apple.news,Apple
+DOMAIN,news-assets.apple.com,Apple
+DOMAIN,news-client.apple.com,Apple
+DOMAIN,news-client-search.apple.com,Apple
+DOMAIN,news-edge.apple.com,Apple
+DOMAIN,news-events.apple.com,Apple
+DOMAIN,apple.comscoreresearch.com,Apple
