@@ -1,4 +1,7 @@
+#!name=Apple One unlock
+#!desc=Apple One服务解锁
 
+[Rule]
 DOMAIN,hls-amt.itunes.apple.com,GlobalTV // TV+ starts here
 DOMAIN,hls.itunes.apple.com,GlobalTV
 DOMAIN,np-edge.itunes.apple.com,GlobalTV
