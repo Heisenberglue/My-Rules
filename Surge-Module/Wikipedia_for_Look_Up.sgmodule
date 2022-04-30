@@ -1,0 +1,4 @@
+#!name=Wikipedia_for_Look_Up
+#!desc=只此域名集只作用于macOS的词典和维基百科搜索集成，且需要开启Surge的增强模式，iOS/iPadOS不需要此域名集，运行于M1处理器的Mac设备上的Loon与Quantumult X可能有效。
+[Rule]
+RULE-SET,https://raw.githubusercontent.com/VirgilClyne/iRingo/main/RuleSet/Wikipedia_for_Look_Up.list,Apple
