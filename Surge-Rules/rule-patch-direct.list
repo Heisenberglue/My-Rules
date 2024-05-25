@@ -2,7 +2,9 @@
 # 直连服务补充
 
 #DOMAIN-SUFFIX,xiaopeng.com
+#临时使用的两个直连修正，后续要精简确定
 RULE-SET,https://fastly.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Special.list
 RULE-SET,https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Unbreak.list
+#建设银行
 RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CCB/CCB.list
 
