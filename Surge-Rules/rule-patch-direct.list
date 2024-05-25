@@ -2,5 +2,6 @@
 # 直连服务补充
 
 #DOMAIN-SUFFIX,xiaopeng.com
-RULE-SET,https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Unbreak.list
 RULE-SET,https://fastly.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Special.list
+RULE-SET,https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Unbreak.list
+
