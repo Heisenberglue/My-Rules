@@ -2,5 +2,5 @@
 # 网络条件苛刻，需要解锁使用的国外服务
 
 #OpenAI ChatGPT
-RULE=SET, https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/OpenAI/OpenAI.list
+RULE=SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/OpenAI/OpenAI.list
 
